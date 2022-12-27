@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Roboto&display=swap');
+
+:root {
+    --fs-exlg: 36px;
+    --fs-lg: 16px;
+    --fs-normal: 14px;
+    --fs-sm: 12px;
+    --fs-exsm: 12px;
+    --fs-h1: 48px;
+    --fs-h2: 24px;
+    --fs-h3: 18px;
+    --fs-h4: 16px;
+    --fs-h5: 21px;
+
+    /*color palette*/
+    --grey-100: #e5e5e5;
+    --pink-500: #F13C6E;
+    --white: #fff;
+    --grey-800: #333333;
+    --grey-300: #EFEFEF;
+    --grey-600: #828282;
+    --black: #000000;
+
+
+    /*container-sizes*/
+    --container-width: 1170px;
+    --container-space: 30px;
+}
